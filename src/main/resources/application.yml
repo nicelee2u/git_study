@@ -1,0 +1,13 @@
+student:
+#   name: 李伟
+#   age: 22
+  location: {province: 山西,city: 西安,details: dontknow}
+  friends:
+    - 小李
+    - 小王
+  pet:
+    name: lala
+    nickname: lalalala
+server:
+  servlet:
+    context-path: /hellospringboot
